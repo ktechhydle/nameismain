@@ -1,0 +1,1 @@
+from .nameismain import nameismain
